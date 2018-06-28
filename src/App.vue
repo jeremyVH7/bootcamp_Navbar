@@ -44,7 +44,7 @@ export default {
         'Nav Button 3',
         'Nav Button 4'
       ],
-      searchText: 'NavBar Search Component',
+      searchText: 'Enter something to search',
       searchBtnText: 'Search'
     }
   },
@@ -81,7 +81,7 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   /* text-align: center; */
   color: white;
-  margin-top: 60px;
+  /* margin-top: 60px; */
   background: #3A52C9;
 }
 
